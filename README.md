@@ -20,12 +20,6 @@
 
 
 
-
-
-
-
-# Hi, I'm Katherine! 👋
-
 1 domotica 
 2 programacion 
 3 elctronica
